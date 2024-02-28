@@ -23,6 +23,7 @@ public class Area {
 		Area.area(5,7);
 		Area.area(5);
 
+		
 	}
 
 }
